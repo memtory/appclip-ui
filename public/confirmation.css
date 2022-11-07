@@ -1,0 +1,308 @@
+/*
+	@name 1_0_netflix_web_confirmation_page
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 375px; width: 375px; height: 942px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page__1_0_netflix_web_confirmation_page_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 942px;
+}
+
+#_bg___1_0_netflix_web_confirmation_page_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 942px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_20 {
+	opacity:0.029999999329448;
+	top: 212px;
+	left: 30px;
+	width: 326px;
+	height: 200px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(0,0,0,0.03);
+}
+
+
+#rectangle_21 {
+	opacity:0.029999999329448;
+	top: 423px;
+	left: 31px;
+	width: 324px;
+	height: 198px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(0,0,0,0.03);
+}
+
+#get_started_button {
+	top: 806px;
+	left: 32px;
+	width: 326px;
+	height: 48px;
+}
+
+#rectangle_9 {
+	top: 0px;
+	left: 0px;
+	width: 326px;
+	height: 48px;
+}
+
+
+#start_membership {
+	top: 12px;
+	left: 93px;
+	width: 148px;
+	height: 35px;
+	overflow: hidden;
+	font-family: SF Pro;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#FFFFFF;
+}
+
+
+#confirm_payment {
+	top: 157px;
+	left: 30px;
+	width: 359px;
+	height: 131px;
+	overflow: hidden;
+	font-family: SF Pro;
+	font-size: 28px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 34px;
+	color:#000000;
+}
+
+
+#subscription {
+	top: 317px;
+	left: 53px;
+	width: 157px;
+	height: 41px;
+	overflow: hidden;
+	font-family: SF Pro;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#change {
+	top: 234px;
+	left: 192px;
+	width: 149px;
+	height: 41px;
+	overflow: hidden;
+	font-family: SF Pro;
+	font-size: 16px;
+	text-align: right;
+	line-height: 20px;
+	color:#006FCF;
+}
+
+
+#edit {
+	top: 315px;
+	left: 192px;
+	width: 149px;
+	height: 41px;
+	overflow: hidden;
+	font-family: SF Pro;
+	font-size: 16px;
+	text-align: right;
+	line-height: 20px;
+	color:#006FCF;
+}
+
+
+#by_taping_the__start_membership__button_below__youagree_to_our_terms_of_use__privacy_statment__that_you_are_over_18_years_of_age__and_that_netflix_will_automatically_continue_your_membership_and_charge_the_monthly_membership_fee__currently__20__to_your_payment_method_until_you_cancel__to_cancel__go_to_account_and_click__cancel_membership__ {
+	top: 639px;
+	left: 31px;
+	width: 341px;
+	height: 148px;
+	overflow: hidden;
+	font-family: SF Pro;
+	font-size: 12px;
+	text-align: left;
+	line-height: 20px;
+	margin-top: -2.6666666666667px;
+	height: 160px;
+	color:#000000;
+}
+
+
+#__20___month {
+	top: 264px;
+	left: 53px;
+	width: 161px;
+	height: 44px;
+	overflow: hidden;
+	font-family: SF Pro;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#premium_plan {
+	top: 234px;
+	left: 53px;
+	width: 157px;
+	height: 41px;
+	overflow: hidden;
+	font-family: SF Pro;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+#ui_elements_image_card_art_world_elite_mastercard {
+	top: 349px;
+	left: 54px;
+	width: 299px;
+	height: 40px;
+}
+
+#rectangle {
+	top: 0px;
+	left: 0px;
+	width: 299px;
+	height: 40px;
+	background:rgba(215.99,215.99,215.99,0);
+}
+
+#ui_elements_image_card_art_world_elite_mastercard_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 285px;
+	height: 40px;
+}
+#world_elite_mastercard {
+	top: 0px;
+	left: 70px;
+	width: 175px;
+	height: 40px;
+}
+#card_details {
+	top: 0px;
+	left: 0px;
+	width: 175px;
+	height: 40px;
+}
+
+#card_number {
+	top: 24px;
+	left: 0px;
+	width: 165.5px;
+	height: 25.5px;
+	overflow: hidden;
+	font-family: SF Pro;
+	font-size: 13px;
+	text-align: left;
+	line-height: 16px;
+	color:#777470;
+}
+
+
+#card_name {
+	top: 0px;
+	left: 0px;
+	width: 196px;
+	height: 35px;
+	overflow: hidden;
+	font-family: SF Pro;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#141413;
+}
+
+
+#platinum_mc {
+	top: 3px;
+	left: 0px;
+	width: 54px;
+	height: 34px;
+}
+
+
+#__gs_verification_heading_embedded {
+	top: 544px;
+	left: 92px;
+	width: 259px;
+	height: 83px;
+	overflow: hidden;
+	font-family: SF Pro;
+	font-size: 14px;
+	text-align: left;
+	line-height: 20px;
+	color:#141413;
+}
+
+
+#enable_biometrics_fo {
+	top: 481px;
+	left: 93px;
+	width: 271px;
+	height: 59px;
+	overflow: hidden;
+	font-family: SF Pro Text;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 24px;
+	color:#141413;
+}
+
+
+#vector {
+	top: 481px;
+	left: 52px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#vector_ek1 {
+	top: 544px;
+	left: 58px;
+	width: 16px;
+	height: 16px;
+}
+
+
+
+/* Add your custom CSS here */
